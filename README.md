@@ -1,6 +1,6 @@
-### Doing a compiler now!!! 👋
 
-![](https://media.tenor.com/images/520d3b17a607a212ff134e70313ea57a/tenor.gif)
+One day i will make this profile pretty...
+<img src="https://media.discordapp.net/attachments/886697574592024608/887071871869288488/dumpy887071691673595985.gif" width="300">
 
 <!--
 **AndreJesusBrito/AndreJesusBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
