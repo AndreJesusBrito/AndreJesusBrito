@@ -1,5 +1,5 @@
 
-One day i will make this profile pretty...
+One day i will make this profile (more) pretty...
 <img src="https://media.discordapp.net/attachments/886697574592024608/887071871869288488/dumpy887071691673595985.gif" width="300">
 
 <!--
